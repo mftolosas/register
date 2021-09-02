@@ -1,0 +1,9 @@
+libraries_register:
+  css:
+    theme:
+      css/styles.css: {}
+  js:
+    js/scripts.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

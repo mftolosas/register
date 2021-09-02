@@ -1,0 +1,4 @@
+access all hook_permissions:
+  title: 'hook_permissions access control'
+  description: 'Access control when accessing to module register.'
+  restrict access: TRUE
